@@ -37,5 +37,5 @@ function onFormSubmit(event) {
     console.log(objectValues);
     event.currentTarget.reset();
   }
-  return;
+  // return;
 }
